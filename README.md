@@ -11,3 +11,6 @@
 
 ## วัตถุประสงค์
 เพื่อแสดงพื้นฐานการประยุกต์ใช้ Computer Vision
+
+## ภาพกิจกรรม
+https://www.canva.com/design/DAG9z1ZfXqI/BQOD9TI6wbQdGoBJEAHYwg/edit?utm_content=DAG9z1ZfXqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
